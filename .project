@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>GarrettsRobot</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/lib</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Source/lib</locationURI>
+		</link>
+		<link>
+			<name>src/pathfinder</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Source/pathfinder</locationURI>
+		</link>
+		<link>
+			<name>src/robotCore</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Source/robotCore</locationURI>
+		</link>
+		<link>
+			<name>src/robotWpi</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Source/robotWpi</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
+
